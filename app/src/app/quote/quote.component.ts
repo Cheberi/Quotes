@@ -11,7 +11,7 @@ export class QuoteComponent implements OnInit {
     throw new Error('Method not implemented.');
   }
   quotes=[new Quote("H.G Wells","Chris Mambotela","If you fell down yesterday, stand up today"),
-new Quote("Lupita","Black Panther","Wakanda Forever")]
+new Quote("British-Author","George Eliot","Its never too late to be what you might have been")]
   preNum!: number;
   lastNum!: number;
   counter!: number;
