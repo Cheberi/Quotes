@@ -1,0 +1,16 @@
+.myQuote{
+    padding: 10px;
+  }
+  
+  .container-fluid{
+    text-align: center;
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+
+  }
+
+  .container{
+    text-align: center;
+    align-items: center;
+  }
