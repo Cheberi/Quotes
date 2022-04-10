@@ -10,7 +10,7 @@ export class QuoteComponent implements OnInit {
   ngOnInit(): void {
     throw new Error('Method not implemented.');
   }
-  quotes=[new Quote("ANC","Julius Malema","Mama give us a sign"),
+  quotes=[new Quote("H.G Wells","Chris Mambotela","If you fell down yesterday, stand up today"),
 new Quote("Lupita","Black Panther","Wakanda Forever")]
   preNum!: number;
   lastNum!: number;
